@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nuno Machado's Homepage"
 title_separator          : "-"
 name                     : &name "Nuno Machado"
-description              : &description "Data Engineer at Teradata"
+description              : &description "Software Engineer at Maze"
 url                      : https://nunomachado.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nunomachado.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Nuno Machado"
-  avatar           : "profile.png"
-  bio              : "Data Engineer at Teradata. Former postdoctoral researcher at HASLab (INESC-TEC & University of Minho)."
+  avatar           : "me_portrait.jpg"
+  bio              : "Software Engineer at Maze"
   location         : "Madrid, Spain"
   employer         :
   pubmed           : 

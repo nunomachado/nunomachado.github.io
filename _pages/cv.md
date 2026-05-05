@@ -18,7 +18,11 @@ Education
 
 Work experience
 ======
-* Sep 2018 – Present: Data Engineer @ Teradata
+* Oct 2025 – Present: Software Engineer @ Maze
+
+* Sep 2020 – Sep 2025: Senior ML Engineer @ Amazon
+
+* Sep 2018 – Aug 2020: Software Engineer @ Teradata
  
 * Jul 2016 – Jun 2018: Postdoctoral Researcher @ HASLab (INESC TEC & University of Minho)
 
