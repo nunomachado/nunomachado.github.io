@@ -13,7 +13,7 @@ title                    : "Nuno Machado's Homepage"
 title_separator          : "-"
 name                     : &name "Nuno Machado"
 description              : &description "Software Engineer at Maze"
-url                      : https://nunomachado.github.io
+url                      : https://nunomachado.me
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nunomachado.github.io"
 
